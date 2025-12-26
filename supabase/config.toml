@@ -1,0 +1,10 @@
+project_id = "xjcysterwlfxttpyieze"
+
+[functions.analyze-reviews]
+verify_jwt = false
+
+[functions.deduplicate-topics]
+verify_jwt = false
+
+[functions.scrape-reviews]
+verify_jwt = false
