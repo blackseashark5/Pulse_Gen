@@ -6,7 +6,7 @@
 
 ## Demo & Try-it-out
 - **YouTube demo (replace with your video URL):** https://youtu.be/nU5T-Nn7ACA
-- **Try it live (replace with your hosted app URL):** 
+- **Try it live:** 
 
 ---
 
