@@ -8,8 +8,6 @@
 - **YouTube demo (replace with your video URL):** https://youtu.be/nU5T-Nn7ACA
 - **Try it live (replace with your hosted app URL):** 
 
-> **Note:** Replace the above links with your final demo and live URLs.
-
 ---
 
 ## Table of Contents
